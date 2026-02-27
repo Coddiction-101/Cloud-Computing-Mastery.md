@@ -8,9 +8,9 @@
 - Deep dives into AWS, Azure, GCP ecosystems
 - Networking, Storage, Security (Shared Responsibility Model in full)
 - Cloud economics, FinOps, pricing traps
-DevOps, CI/CD, Containers, Kubernetes, Serverless
-AI/ML on cloud, real-world use cases from Netflix to healthcare
-Must-know statistics and facts
+- DevOps, CI/CD, Containers, Kubernetes, Serverless
+- AI/ML on cloud, real-world use cases from Netflix to healthcare
+- Must-know statistics and facts
 The 4-Phase step-by-step learning roadmap (Weeks 1–30+)
 Certifications guide with exam details
 12 common mistakes to avoid (including the billing alert trap, root credentials, and credentials-in-code)
