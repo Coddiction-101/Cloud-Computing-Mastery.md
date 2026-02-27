@@ -6,8 +6,8 @@
 - All service models (IaaS, PaaS, SaaS, FaaS, BaaS, CaaS)
 - All deployment models (Public, Private, Hybrid, Multi-Cloud)
 - Deep dives into AWS, Azure, GCP ecosystems
-Networking, Storage, Security (Shared Responsibility Model in full)
-Cloud economics, FinOps, pricing traps
+- Networking, Storage, Security (Shared Responsibility Model in full)
+- Cloud economics, FinOps, pricing traps
 DevOps, CI/CD, Containers, Kubernetes, Serverless
 AI/ML on cloud, real-world use cases from Netflix to healthcare
 Must-know statistics and facts
