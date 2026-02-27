@@ -1,10 +1,10 @@
 26 comprehensive sections covering:
 
-What cloud computing actually is (beyond textbook definitions)
-Full history from the 1960s to today
-How it technically works (virtualization, APIs, regions)
-All service models (IaaS, PaaS, SaaS, FaaS, BaaS, CaaS)
-All deployment models (Public, Private, Hybrid, Multi-Cloud)
+- What cloud computing actually is (beyond textbook definitions)
+- Full history from the 1960s to today
+- How it technically works (virtualization, APIs, regions)
+- All service models (IaaS, PaaS, SaaS, FaaS, BaaS, CaaS)
+- All deployment models (Public, Private, Hybrid, Multi-Cloud)
 Deep dives into AWS, Azure, GCP ecosystems
 Networking, Storage, Security (Shared Responsibility Model in full)
 Cloud economics, FinOps, pricing traps
