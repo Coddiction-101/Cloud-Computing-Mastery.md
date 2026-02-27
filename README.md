@@ -14,7 +14,7 @@
 - The 4-Phase step-by-step learning roadmap (Weeks 1–30+)
 - Certifications guide with exam details
 - 12 common mistakes to avoid (including the billing alert trap, root credentials, and credentials-in-code)
-What to do while learning, and what to do after
-Full resources list, tools, books, communities
-Complete glossary of ~40 essential terms
+- What to do while learning, and what to do after
+- Full resources list, tools, books, communities
+- Complete glossary of ~40 essential terms
 
