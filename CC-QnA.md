@@ -1,4 +1,4 @@
-Here's a comprehensive list of **Cloud Computing Q&A questions** covering every topic from the syllabus. Organized by section for easy note preparation:
+Comprehensive list of **Cloud Computing Q&A questions** covering every topic from the syllabus. Organized by section for easy note preparation:
 
 ## 1. Fundamentals
 1. What is Cloud Computing?
