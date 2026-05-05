@@ -46,7 +46,7 @@ Imagine you need electricity. You don't build your own power plant. You pay a ut
 
 Before cloud computing existed, if a company wanted to launch a website, they had to purchase physical servers, hire teams to manage them, maintain cooling systems, provision storage, manage backups, handle failures, and scale manually. This required enormous capital investment and months of preparation. With the cloud, you can spin up a globally available server in literally 60 seconds and pay only for what you actually use.
 
-This shift represents one of the most significant changes in the history of technology. It democratized access to computing power — making resources that were previously available only to large corporations now accessible to startups, students, and individuals.
+This shift represents one of the most significant changes in the history of technology. It Democratized/Adjust access to computing power — making resources that were previously available only to large corporations now accessible to startups, students, and individuals.
 
 Cloud computing is not just a technology. It is a new economic model for computing. It is infrastructure-as-a-service delivered with the reliability of a utility.
 
