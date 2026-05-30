@@ -4,7 +4,7 @@ Comprehensive list of **Cloud Computing Q&A questions** covering every topic fro
 1. What is Cloud Computing? ✔️
 2. Define the NIST definition of Cloud Computing.
 3. What are the 5 essential characteristics of Cloud Computing? ✔️
-4. Explain On-demand Self Service.
+4. Explain On-demand Self Service. ✔️
 5. What is Broad Network Access in Cloud?
 6. Define Resource Pooling with examples.
 7. What does Rapid Elasticity mean?
