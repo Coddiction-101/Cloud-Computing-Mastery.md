@@ -1,7 +1,7 @@
 Comprehensive list of **Cloud Computing Q&A questions** covering every topic from the syllabus. Organized by section for easy note preparation:
 
 ## 1. Fundamentals
-1. What is Cloud Computing?
+1. What is Cloud Computing? ✔️
 2. Define the NIST definition of Cloud Computing.
 3. What are the 5 essential characteristics of Cloud Computing?
 4. Explain On-demand Self Service.
